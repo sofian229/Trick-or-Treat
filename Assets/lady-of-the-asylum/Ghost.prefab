@@ -1,0 +1,141 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1360756545294835944
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: a7bf864a15d484d5988c93daca36b2a8, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 3.8717408
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a7bf864a15d484d5988c93daca36b2a8, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 3.8717408
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a7bf864a15d484d5988c93daca36b2a8, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 3.8717408
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a7bf864a15d484d5988c93daca36b2a8, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.61
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a7bf864a15d484d5988c93daca36b2a8, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.91
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a7bf864a15d484d5988c93daca36b2a8, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.5664
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a7bf864a15d484d5988c93daca36b2a8, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a7bf864a15d484d5988c93daca36b2a8, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a7bf864a15d484d5988c93daca36b2a8, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a7bf864a15d484d5988c93daca36b2a8, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a7bf864a15d484d5988c93daca36b2a8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a7bf864a15d484d5988c93daca36b2a8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 180
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a7bf864a15d484d5988c93daca36b2a8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -1133796817401185650, guid: a7bf864a15d484d5988c93daca36b2a8, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 5b9511ecb09394d80b135884f204f423, type: 2}
+    - target: {fileID: -497225568183085001, guid: a7bf864a15d484d5988c93daca36b2a8, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 629a83bc1e8684cbaa38274fa98c68ce, type: 2}
+    - target: {fileID: 919132149155446097, guid: a7bf864a15d484d5988c93daca36b2a8, type: 3}
+      propertyPath: m_Name
+      value: Ghost
+      objectReference: {fileID: 0}
+    - target: {fileID: 2321523695958950486, guid: a7bf864a15d484d5988c93daca36b2a8, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: bdbb139caeb274563bee802e11bd83e6, type: 2}
+    - target: {fileID: 7304030453063388644, guid: a7bf864a15d484d5988c93daca36b2a8, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7bdbef5c3e48f4213a19af691a14aeb4, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: a7bf864a15d484d5988c93daca36b2a8, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 4934603859095530207}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: a7bf864a15d484d5988c93daca36b2a8, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7852644437945364993}
+  m_SourcePrefab: {fileID: 100100000, guid: a7bf864a15d484d5988c93daca36b2a8, type: 3}
+--- !u!1 &2171589408172219833 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: a7bf864a15d484d5988c93daca36b2a8, type: 3}
+  m_PrefabInstance: {fileID: 1360756545294835944}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &4934603859095530207
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2171589408172219833}
+  m_Enabled: 1
+  m_Avatar: {fileID: 9000000, guid: a7bf864a15d484d5988c93daca36b2a8, type: 3}
+  m_Controller: {fileID: 9100000, guid: e456b0cc4c93b493c8a89ba937bc8b05, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &7852644437945364993
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2171589408172219833}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbb2085fccebd4ead98ae2e15d572701, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  waypoints: []
+  idleTime: 2
+  walkSpeed: 2
+  chaseSpeed: 4
+  sightDistance: 10
+  idleSound: {fileID: 8300000, guid: 3de032cd39b561449bb672df1f4c77bf, type: 3}
+  walkingSound: {fileID: 8300000, guid: 9e13db95f3160434686214acbfe88f27, type: 3}
+  chasingSound: {fileID: 8300000, guid: 54bc704101ca86648b55cec5687d4a1f, type: 3}
+  screamSound: {fileID: 8300000, guid: 4f99cc9880447d54f899cc448d1c1388, type: 3}
+  chaseDelay: 2
